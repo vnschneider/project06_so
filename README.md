@@ -1,13 +1,12 @@
 <div align="center">
    <h1>Sistemas Operacionais - NFS</h1>
    
-  ![Badge](https://github.com/1mrschneider/project06_so/blob/main/Assets/NFS.png)
+  ![Badge](https://github.com/1mrschneider/project06_so/blob/main/Assets/nfs_image.jpeg)
   
   <p>Créditos: <a href="https://techviewleo.com/">
     TechViewLeo
   </a></p>
   
-  **[IFMA - Instituto Federal de Educação, Ciência e Tenologia do Maranhão. Campus Imperatriz](https://portal.ifma.edu.br/inicio/)**
 </div>
 
 ## | Sobre
@@ -18,8 +17,10 @@
    👨‍🏫[Paulo Henrique Sousa Barbosa](https://github.com/agenteph)
 
 ### Autores:
-   1. 🐱‍💻[Gabriel Nóbrega](https://github.com/Teclaf25)
+   1. 🐱‍💻[Gabriel Brito Nóbrega](https://github.com/Teclaf25)
    2. 🐱‍💻[Vinícius Schneider J. Viana](https://github.com/1mrschneider)
   
 ## | Sumário
    > [Sumário](https://github.com/1mrschneider/project06_so/wiki) **Dica: Use os tópicos na lateral direita do Wiki para navegar entre as páginas 😉**
+   
+  **Trabalho desenvolvido pelos alunos do curso de Ciência da Computação do [IFMA — Campus Imperatriz](https://portal.ifma.edu.br/inicio/)**
