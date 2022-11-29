@@ -13,7 +13,7 @@
    Este guia é destinado para instalação dos softwares necessários para a utilização do NFS no Ubuntu 22.04.1 LTS (Jammy Jellyfish) e analise dos dados obtidos. Ele contem todas as instruções para a montagem e operação de duas NFS (servidor e cliente).
 
 ### Disciplina: Sistemas Operacionais
-   ### Professor(a) : 
+   ### Professor(a): 
    👨‍🏫[Paulo Henrique Sousa Barbosa](https://github.com/agenteph)
 
 ### Autores:
@@ -21,6 +21,6 @@
    2. 🐱‍💻[Vinícius Schneider J. Viana](https://github.com/1mrschneider)
   
 ## | Sumário
-   > **Dica: Use os tópicos na lateral direita do Wiki para [navegar entre as páginas](https://github.com/1mrschneider/project06_so/wiki)😉**
+   > **Dica: Use os tópicos na lateral direita do Wiki para [navegar entre as páginas](https://github.com/1mrschneider/project06_so/wiki) 😉**
    
   **Trabalho desenvolvido pelos alunos do curso de Ciência da Computação do [IFMA — Campus Imperatriz](https://portal.ifma.edu.br/inicio/)**
