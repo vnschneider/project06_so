@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Sistemas Operacionais - NFS</h1>
    
-  ![Badge](https://github.com/1mrschneider/project06_so/blob/main/Assets/nfs_image.jpeg)
+  ![Badge](https://github.com/1mrschneider/project06_so/blob/main/Assets/nfs_image.png)
   
   <p>Créditos: <a href="https://techviewleo.com/">
     TechViewLeo
