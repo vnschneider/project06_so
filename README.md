@@ -17,7 +17,7 @@
    ### Professor(a) : 
    👨‍🏫[Paulo Henrique Sousa Barbosa](https://github.com/agenteph)
 
-### Dupla:
+### Autores:
    1. 🐱‍💻[Gabriel Nóbrega](https://github.com/Teclaf25)
    2. 🐱‍💻[Vinícius Schneider J. Viana](https://github.com/1mrschneider)
   
