@@ -23,3 +23,4 @@
   
 ## | Sumário
    > [Sumário](https://github.com/1mrschneider/project06_so/wiki)
+   >**Dica: Use os tópicos na lateral direita do Wiki para navegar entre as páginas 😉**
